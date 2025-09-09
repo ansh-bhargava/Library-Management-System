@@ -1,0 +1,14 @@
+# Compiled files
+*.o
+*.out
+*.exe
+*.dll
+
+# Build directories
+build/
+bin/
+
+# User-specific files
+*.user
+*.suo
+.vscode/
