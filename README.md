@@ -20,7 +20,7 @@ The project is designed to showcase core Object-Oriented Programming (OOP) princ
 
 - **Language:** C++17
 - **Database:** MySQL
-- **Compiler:** g++ / Clang / MSVC
+- **Compiler:** g++
 - **Libraries:**
   - C++ Standard Library (STL)
   - MySQL Connector/C++
